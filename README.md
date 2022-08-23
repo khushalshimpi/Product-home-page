@@ -25,7 +25,7 @@ Project  built from using
 &
 ![HTML](https://img.shields.io/badge/CSS-blue)
 
-[Click Me]() to see the project Demo.
+[Click Me](https://regal-cranachan-c8143b.netlify.app) to see the project Demo.
 
 
 
@@ -45,5 +45,5 @@ Project  built from using
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vidya-sagar-portfolio.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-shimpi-8a8685201/)
